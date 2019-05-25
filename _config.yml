@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: Reyna Zhou Blog
+email: yzhou214@ucr.edu
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  周钰群的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: https://reynayzhou.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Reyna Zhou
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+# twitter: 
+# weibo: suyan0830
+github: reynayzhou
+# instagram: suyan404
+linkedin: yuqunzhou
 
 # avatar and Favicon
 avatar: http://imgs.yansu.org/site-avatar.png
@@ -26,7 +26,7 @@ favicon: http://imgs.yansu.org/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: yzhou-zh
 
 # google analytics config
 ga:
